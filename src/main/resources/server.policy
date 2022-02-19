@@ -1,0 +1,5 @@
+grant
+	codeBase "file:///home/theri/git/github/personal/austurist/lrnrmi/-"
+{
+    permission java.security.AllPermission;
+};
